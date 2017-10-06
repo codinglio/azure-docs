@@ -1244,6 +1244,7 @@ Some great internet resources:
 
 * DataCamp: DataCamp teaches R in the comfort of your browser with video lessons and coding exercises. There are interactive tutorials on the latest R techniques and packages. Take the free interactive R tutorial at https://www.datacamp.com/courses/introduction-to-r
 * A guide on Getting started with R from Programiz https://www.programiz.com/r-programming
+* A community for Geeks to learn programming with Professionals http://codinglio.com/
 * A quick R tutorial by Kelly Black from Clarkson University http://www.cyclismo.org/tutorial/R/
 * 60+ R resources listed at http://www.computerworld.com/article/2497464/business-intelligence-60-r-resources-to-improve-your-data-skills.html
 
